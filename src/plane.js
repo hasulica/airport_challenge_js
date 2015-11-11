@@ -1,5 +1,5 @@
 var Plane = function(){};
 
-Plane.prototype.land = function () {
-  
+Plane.prototype.takeOff = function () {
+
 };
